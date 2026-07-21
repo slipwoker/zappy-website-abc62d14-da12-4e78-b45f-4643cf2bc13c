@@ -7,73 +7,73 @@
 ## Pages
 
 ### בית
-https://one-four-eight-abc62d14.zappy5.app
+https://example.com
 מותג אובר סייז שמחבר בין אופנת רחוב לאמנות יהודית. חולצות אובר סייז לגברים ונשים, פריטי אמירה תרבותיים ונועזים. בואו להלביש את הזהות שלכם בסטייל.
 
 ### הסיפור שלנו
-https://one-four-eight-abc62d14.zappy5.app/brand-story
+https://example.com/brand-story
 הסיפור מאחורי המותג שמשלב אובר סייז עם נשמה יהודית. מהחיבור בין תרבות רחוב לאמנות מסורתית ועד לפריטים שמספרים סיפור. הכירו את המסע היצירתי שלנו.
 
 ### גלריה
-https://one-four-eight-abc62d14.zappy5.app/gallery
+https://example.com/gallery
 גלריית השראה של חולצות אובר סייז ואמנות יהודית במרכז הבמה. צפו בקולקציות שמביאות את הטיק טוק והרחוב הישראלי לחיים. קבלו רעיונות לסטייל הבא שלכם.
 
 ### שאלות נפוצות
-https://one-four-eight-abc62d14.zappy5.app/faq
+https://example.com/faq
 תשובות לכל השאלות על חולצות אובר סייז, מידות, התאמה אישית, והאמנות שמאחורי הפריטים. אל תישארו עם ספקות — אנחנו כאן כדי לעזור לכם לבחור נכון.
 
 ### צור קשר
-https://one-four-eight-abc62d14.zappy5.app/contact
+https://example.com/contact
 רוצים לשתף רעיון, להזמין פריט מיוחד או סתם להגיד היי? צרו קשר עם צוות One four eight. אנחנו מחכים לשמוע מכם ולהפוך את החזון האופנתי שלכם למציאות.
 
 ### Products
-https://one-four-eight-abc62d14.zappy5.app/products
+https://example.com/products
 המוצרים שלנו - One four eight
 
 ### Cart
-https://one-four-eight-abc62d14.zappy5.app/cart
+https://example.com/cart
 עגלת הקניות שלך
 
 ### Checkout
-https://one-four-eight-abc62d14.zappy5.app/checkout
+https://example.com/checkout
 תשלום
 
 ### Login
-https://one-four-eight-abc62d14.zappy5.app/login
+https://example.com/login
 התחברות לקוחות
 
 ### Account
-https://one-four-eight-abc62d14.zappy5.app/account
+https://example.com/account
 החשבון שלי
 
 ### Order Success
-https://one-four-eight-abc62d14.zappy5.app/order-success
+https://example.com/order-success
 תודה על ההזמנה
 
 ### Product Detail
-https://one-four-eight-abc62d14.zappy5.app/product/:slug
+https://example.com/product/:slug
 פרטי המוצר - One four eight
 
 ### Category
-https://one-four-eight-abc62d14.zappy5.app/category/:slug
+https://example.com/category/:slug
 מוצרים - One four eight
 
 ### תודה רבה
-https://one-four-eight-abc62d14.zappy5.app/thank-you
+https://example.com/thank-you
 One four eight - תודה רבה
 
 ## Legal & Policy
 
 ### Privacy Policy
-https://one-four-eight-abc62d14.zappy5.app/privacy
+https://example.com/privacy
 Information about how user data is collected, stored, and protected.
 
 ### Terms & Conditions
-https://one-four-eight-abc62d14.zappy5.app/terms
+https://example.com/terms
 Legal terms describing service usage, rights, and policies.
 
 ### Accessibility Statement
-https://one-four-eight-abc62d14.zappy5.app/accessibility
+https://example.com/accessibility
 Information about WCAG compliance and accessibility features.
 
 ---
@@ -104,8 +104,8 @@ E-commerce / Judaica & Fashion
 
 # Machine-readable feeds
 
-- Sitemap (XML): https://one-four-eight-abc62d14.zappy5.app/sitemap.xml
-- Robots: https://one-four-eight-abc62d14.zappy5.app/robots.txt
-- Flattened page text (for LLMs): https://one-four-eight-abc62d14.zappy5.app/llms-full.txt
-- Products (JSON): https://one-four-eight-abc62d14.zappy5.app/products.json
-- Products (Google Merchant RSS): https://one-four-eight-abc62d14.zappy5.app/product-feed.xml
+- Sitemap (XML): https://example.com/sitemap.xml
+- Robots: https://example.com/robots.txt
+- Flattened page text (for LLMs): https://example.com/llms-full.txt
+- Products (JSON): https://example.com/products.json
+- Products (Google Merchant RSS): https://example.com/product-feed.xml

@@ -50,4 +50,4 @@ Allow: /
 User-agent: MistralAI-User
 Allow: /
 
-Sitemap: https://one-four-eight-abc62d14.zappy5.app/sitemap.xml
+Sitemap: https://example.com/sitemap.xml
